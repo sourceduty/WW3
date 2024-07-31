@@ -11,6 +11,10 @@ If WW3 were to occur, it would likely involve major global powers, with the Unit
 The start of WW3 could be triggered by a variety of factors. One possible scenario is a regional conflict escalating due to the involvement of major powers, whether through direct military action or proxy wars. For example, ongoing tensions in Eastern Europe, particularly between Russia and NATO, or in the South China Sea, involving China and its neighbors, could spark a larger conflict. Another potential trigger could be a miscalculation or accident, such as an unintended military encounter or a cyberattack that spirals out of control. Economic competition, resource scarcity, and ideological differences could also contribute to the onset of a global conflict, especially if they exacerbate existing tensions between powerful nations. The advent of advanced technologies in warfare, such as artificial intelligence and hypersonic weapons, might further complicate efforts to prevent escalation once hostilities begin.
 
 #
+
+![Forces](https://github.com/user-attachments/assets/56a55b97-a1a8-4d12-8442-ee823a037ded)
+
+#
 ### Concept WW3 Plans
 
 ```
