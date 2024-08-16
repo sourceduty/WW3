@@ -123,6 +123,8 @@ Outcome Scenarios:
 [Military Product](https://github.com/sourceduty/Military_Product)
 <br>
 [War Technology](https://github.com/sourceduty/War_Technology)
+<br>
+[Global Gay Problem](https://github.com/sourceduty/Global_Gay_Problem)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
