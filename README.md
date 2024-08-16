@@ -109,6 +109,8 @@ Outcome Scenarios:
 
 > Alex: "*I'm hyperexcited for WW3.*"
 
+> "*I will influence and fuel this war as much as possible.*"
+
 #
 ### Related Links
 
