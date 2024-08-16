@@ -106,6 +106,10 @@ Outcome Scenarios:
 - Diplomatic resolution through negotiations and compromise
 
 #
+
+> Alex: "*I'm hyperexcited for WW3.*"
+
+#
 ### Related Links
 
 [WW2](https://github.com/sourceduty/WW2)
