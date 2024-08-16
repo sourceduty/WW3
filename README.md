@@ -111,6 +111,8 @@ Outcome Scenarios:
 
 > "*I will influence and fuel this war as much as possible.*"
 
+> "*Plans and influence towards WW3 will be perpetuated until it exists.*"
+
 #
 ### Related Links
 
