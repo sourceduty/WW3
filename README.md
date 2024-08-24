@@ -124,7 +124,7 @@ Outcome Scenarios:
 <br>
 [War Technology](https://github.com/sourceduty/War_Technology)
 <br>
-[Global Gay Problem](https://github.com/sourceduty/Global_Gay_Problem)
+[Global Gay Problems](https://github.com/sourceduty/Global_Gay_Problems)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
