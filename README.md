@@ -106,6 +106,13 @@ Outcome Scenarios:
 - Diplomatic resolution through negotiations and compromise
 
 #
+### WW3 Death Estimates
+
+Based on hypothetical scenarios of a World War III involving modern military capabilities, including nuclear weapons, the potential death toll could be staggeringly high. Estimates from various studies suggest that a large-scale nuclear conflict between major powers could result in immediate deaths ranging from 50 million to over 100 million people, with subsequent deaths from radiation, famine, and societal collapse potentially pushing the toll into the hundreds of millions. Conventional warfare on a global scale, even without nuclear involvement, could lead to tens of millions of casualties due to direct combat, bombings, and other military actions, as well as indirect consequences such as infrastructure destruction, economic collapse, and widespread humanitarian crises.
+
+The number of people who would rebel against a global war would likely be significant, given historical precedents and modern-day anti-war sentiments. During major conflicts like the Vietnam War, anti-war movements drew millions of participants worldwide. In a hypothetical World War III scenario, especially if it involved nuclear exchanges or widespread destruction, public outcry and opposition could be expected to reach unprecedented levels. Global communication networks and social media would likely amplify dissent, potentially mobilizing hundreds of millions of people to protest, resist, or actively rebel against the continuation of the conflict. This could lead to widespread civil unrest, revolts, and pressure on governments to seek peace or ceasefire agreements.
+
+#
 
 > Alex: "*I'm hyperexcited for WW3.*"
 
