@@ -129,6 +129,8 @@ Economically and politically, the implications of World War III would also be fa
 
 > "*Plans and influence towards WW3 will be perpetuated until it exists.*"
 
+> "*Cremational creativity is good.*"
+
 #
 
 ![Skittles   Bone Ashes](https://github.com/user-attachments/assets/4bd20eee-5c80-4f86-b51d-29e4bf47cc46)
