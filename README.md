@@ -161,6 +161,8 @@ The information related to World War III provided by Sourceduty is entirely fict
 [War Technology](https://github.com/sourceduty/War_Technology)
 <br>
 [Global Gay Problems](https://github.com/sourceduty/Global_Gay_Problems)
+<br>
+[Guns](https://github.com/sourceduty/Guns)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
